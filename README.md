@@ -355,38 +355,6 @@ CI/CD, tests, and observability aren't overhead — they're the foundation of fa
 
 <h2 align="center">🤝 Let's Build Something Together</h2>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shema-arafati-h-5baa6b395/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  &nbsp;
-  <a href="mailto:shemaaraafati26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/shemaarafati2020">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  &nbsp;
-  <a href="https://twitter.com/shemaarafati">
-    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  &nbsp;
-  <a href="https://dev.to/shemaarafati">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  &nbsp;
-  <a href="https://buymeacoffee.com/shemaarafati">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📧_Email-shemaaraafati26@gmail.com-0891b2?style=flat-square&labelColor=0D1117" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/🔗_LinkedIn-shema--arafati--h-0A66C2?style=flat-square&labelColor=0D1117" />
-</p>
-
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
