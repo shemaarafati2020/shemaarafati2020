@@ -1,235 +1,429 @@
-<!-- ANIMATED HEADER BANNER -->
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                 ANIMATED HEADER BANNER                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=200&section=header&text=Shema%20Arafati&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20IT%20Student%20%40%20SKillArc%20Corporation&descAlignY=55&descSize=18"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D0221,30:0B2447,60:19376D,100:576CBC&height=250&section=header&text=Shema%20Arafati&fontSize=68&fontColor=A5F3FC&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20SKillArc%20Corporation&descAlignY=60&descSize=18&descColor=67E8F9&stroke=576CBC&strokeWidth=2"/>
 </p>
 
-<!-- ANIMATED TYPING - TIMES NEW ROMAN -->
+<!-- ANIMATED TYPING SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=700&size=28&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=150&lines=%F0%9F%9A%80+Building+Next-Gen+Software+Solutions;%F0%9F%92%A1+Innovating+at+SKillArc+Corporation;%F0%9F%8C%9F+Full-Stack+Developer+%26+Tech+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&multiline=true&repeat=true&width=860&height=110&lines=%F0%9F%9A%80+Architecting+Production-Ready+Software+Systems;%F0%9F%92%A1+Full-Stack+%7C+Cloud-Native+%7C+Open+Source+Advocate;%F0%9F%8C%9F+Turning+Complex+Ideas+Into+Elegant+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
-
-
-<!-- PROFILE VIEWS & SOCIAL BADGES -->
+<!-- SOCIAL PROOF ROW -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shemaarafati2020&label=Profile%20Views&color=00C9FF&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/shemaarafati2020?label=Followers&style=for-the-badge&color=92FE9D&logo=github" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/shemaarafati2020?label=Stars&style=for-the-badge&color=00C9FF" alt="Stars" />
+  <img src="https://komarev.com/ghpvc/?username=shemaarafati2020&label=Profile+Views&color=0891b2&style=for-the-badge&labelColor=0D1117" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shemaarafati2020?label=Followers&style=for-the-badge&color=0891b2&labelColor=0D1117&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/shemaarafati2020?label=Stars+Earned&style=for-the-badge&color=0891b2&labelColor=0D1117&logo=github" alt="Stars" />
 </p>
 
+<!-- PERSONA TAGS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Innovator-00C9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🧠_Problem%20Solver-00D9A5?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/💻_Open%20Source-00B4D8?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🎯_Goal%20Oriented-48CAE4?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚡_Builder-00B4D8?style=flat-square&labelColor=0D1117&color=0369a1" />
+  <img src="https://img.shields.io/badge/🧠_Architect-0891b2?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🔬_Problem_Solver-0284c7?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌍_Open_Source-0369a1?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/☁️_Cloud_Native-0891b2?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🎯_Outcome_Driven-0284c7?style=flat-square&labelColor=0D1117" />
 </p>
 
-<!-- RAINBOW DIVIDER -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
 
-<!-- ABOUT ME SECTION -->
-<h2 align="center" style="font-family: 'Times New Roman', serif;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  <span style="font-family: 'Times New Roman', serif;">About Me</span>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                      ABOUT ME                                       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
+  &nbsp;About Me
 </h2>
 
-<table align="center">
+<table align="center" width="92%">
 <tr>
-<td width="50%">
+<td width="46%" valign="top">
 
 ```yaml
-name: Shema Arafati
-role: Software Engineer & IT Student
-company: SKillArc Corporation
-location: 🌍 Global
+┌─────────────────────────────────────┐
+│  👤  Shema Arafati                  │
+│  💼  Software Engineer              │
+│  🏢  SKillArc Corporation           │
+│  📍  Rwanda / Global Remote         │
+│  📬  shemaaraafati26@gmail.com      │
+│  🔗  linkedin/in/shema-arafati-h    │
+│  🕐  Always Shipping 🚀             │
+└─────────────────────────────────────┘
 ```
 
 </td>
-<td width="50%">
+<td width="54%" valign="top">
+<br/>
 
-- 💡 Building **impactful & innovative solutions**
-- 💻 Expert in **Full-Stack Development**
-- 🚀 Exploring **Cloud & DevOps**
-- 📚 Learning **Spring Boot & Advanced JS**
-- 🎯 Goal: **Make tech accessible to all**
+- 🏗️ Building **scalable, production-ready** web & mobile systems
+- 🌐 Expert in **MERN Stack, Spring Boot & Microservices**
+- ☁️ Passionate about **Cloud Architecture, DevOps & CI/CD**
+- 📐 Focused on **System Design, Performance & Clean Code**
+- 🤝 Open to **collaborations, freelance & open-source**
+- 🎯 Mission: **Deliver high-impact technology at scale**
+- 📖 Currently deepening: **Kubernetes, Rust & AI Engineering**
 
 </td>
 </tr>
 </table>
 
-<!-- CURRENTLY WORKING ON -->
-<h3 align="center" style="font-family: 'Times New Roman', serif;">🔭 Currently Working On</h3>
+<br/>
+
+<!-- CURRENTLY BUILDING / LEARNING ROW -->
+<h3 align="center">🔭 Currently Shipping</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/📱_Mobile_Apps-React_Native-00C9FF?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/🌐_Web_Apps-MERN_Stack-00D9A5?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⚙️_Backend-Spring_Boot-48CAE4?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_&_Docker-90E0EF?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/📱_Mobile-React_Native-0891b2?style=flat-square&labelColor=0D1117&logo=react" />
+  <img src="https://img.shields.io/badge/🌐_Web-MERN_Stack-0369a1?style=flat-square&labelColor=0D1117&logo=mongodb" />
+  <img src="https://img.shields.io/badge/⚙️_Backend-Spring_Boot-0284c7?style=flat-square&labelColor=0D1117&logo=spring" />
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_&_GCP-0891b2?style=flat-square&labelColor=0D1117&logo=amazon-aws" />
+  <img src="https://img.shields.io/badge/🔐_Security-JWT_&_OAuth2-0369a1?style=flat-square&labelColor=0D1117" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<h3 align="center">🌱 Actively Learning</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/System_Design-0891b2?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AI_Engineering-6366f1?style=flat-square&labelColor=0D1117&logo=openai&logoColor=white" />
+</p>
 
-<!-- TECH STACK SECTION -->
-<h2 align="center" style="font-family: 'Times New Roman', serif;">🛠️ Tech Stack & Tools</h2>
+---
 
-<h4 align="center" style="font-family: 'Times New Roman', serif;">💻 Programming Languages</h4>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   TECH STACK & TOOLS                                ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🛠️ Tech Stack &amp; Arsenal</h2>
+
+<details open>
+<summary><b>💻 Programming Languages</b></summary>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 </p>
+</details>
 
-<h4 align="center" style="font-family: 'Times New Roman', serif;">🌐 Frontend Development</h4>
+<details open>
+<summary><b>🌐 Frontend</b></summary>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
+</details>
 
-<h4 align="center" style="font-family: 'Times New Roman', serif;">⚙️ Backend & Database</h4>
+<details open>
+<summary><b>⚙️ Backend &amp; APIs</b></summary>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-0891b2?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white" />
+</p>
+</details>
+
+<details open>
+<summary><b>🗄️ Databases &amp; Storage</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
 </p>
+</details>
 
-<h4 align="center" style="font-family: 'Times New Roman', serif;">🔧 Tools & Platforms</h4>
+<details open>
+<summary><b>☁️ Cloud, DevOps &amp; Infrastructure</b></summary>
+<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+</details>
+
+<details>
+<summary><b>🔧 Tools &amp; IDEs</b></summary>
+<br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+</p>
+</details>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  EXPERTISE MATRIX                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">💡 Expertise Matrix</h2>
+
+<table align="center" width="86%">
+<tr>
+<td width="50%" valign="top">
+
+**Core Engineering**
+
+| Domain | Level |
+|---|---|
+| 🌐 Full-Stack Web Development | `████████████` 95% |
+| ⚙️ Spring Boot / Java Backend | `██████████░░` 85% |
+| 📱 React & React Native | `█████████░░░` 82% |
+| 🗄️ Database Design & Modeling | `█████████░░░` 80% |
+| 🔐 Auth, Security & JWT | `████████░░░░` 78% |
+
+</td>
+<td width="50%" valign="top">
+
+**Infrastructure & Growth**
+
+| Domain | Level |
+|---|---|
+| ☁️ Cloud & DevOps (AWS/GCP) | `████████░░░░` 72% |
+| 🐳 Docker & Kubernetes | `███████░░░░░` 68% |
+| 🔄 CI/CD & GitHub Actions | `████████░░░░` 70% |
+| 🎨 UI/UX & Design Systems | `████████░░░░` 75% |
+| 🐍 Python & Machine Learning | `███████░░░░░` 65% |
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  GITHUB ANALYTICS                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<!-- STATS CARDS -->
+<p align="center">
+  <a href="https://github.com/shemaarafati2020">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=0891b2&title_color=67E8F9&icon_color=A5F3FC&text_color=e2e8f0&ring_color=0891b2" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/shemaarafati2020">
+    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaarafati2020&layout=compact&langs_count=9&theme=transparent&bg_color=0D1117&border_color=0891b2&title_color=67E8F9&text_color=e2e8f0" alt="Top Languages" />
+  </a>
 </p>
 
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
-
-<!-- GITHUB STATS SECTION -->
-<h2 align="center" style="font-family: 'Times New Roman', serif;">📊 GitHub Analytics</h2>
-
+<!-- STREAK STATS -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=shemaarafati2020&theme=transparent&background=0D1117&border=0891b2&stroke=0891b2&ring=67E8F9&fire=f59e0b&currStreakLabel=67E8F9&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
+</p>
 
 <!-- ACTIVITY GRAPH -->
 <p align="center">
   <a href="https://github.com/shemaarafati2020">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&custom_title=📈%20Contribution%20Activity&bg_color=0D1117&color=00C9FF&line=92FE9D&point=FFFFFF&area_color=00C9FF&area=true&hide_border=true" width="95%"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&custom_title=📈+Contribution+Activity&bg_color=0D1117&color=67E8F9&line=0891b2&point=A5F3FC&area_color=0891b2&area=true&hide_border=false&border_color=0891b2" width="95%" alt="Activity Graph"/>
   </a>
 </p>
 
 <!-- TROPHIES -->
-<h3 align="center" style="font-family: 'Times New Roman', serif;">🏆 GitHub Trophies</h3>
+<h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=shemaarafati2020&theme=discord&no-frame=false&no-bg=false&column=7&margin-w=6&row=1" alt="GitHub Trophies" />
 </p>
-
 
 <!-- CONTRIBUTION SNAKE -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+---
 
-<!-- SPOTIFY / NOW PLAYING (Optional Section) -->
-<h2 align="center" style="font-family: 'Times New Roman', serif;">🎵 Vibes While Coding</h2>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                   FEATURED PROJECTS                                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🚀 Featured Projects</h2>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/🎧_Favorite_Genre-Lo--Fi_&_Electronic-00C9FF?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/☕_Fuel-Coffee_&_Tea-92FE9D?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/⏰_Timezone-Always_Coding-48CAE4?style=for-the-badge&labelColor=0D1117" />
+  <a href="https://github.com/shemaarafati2020/shemaarafati2020">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=shemaarafati2020&theme=transparent&bg_color=0D1117&border_color=0891b2&title_color=67E8F9&text_color=e2e8f0&icon_color=A5F3FC" />
+  </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+<table align="center" width="92%">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🌐_Full--Stack-MERN_%26_Spring-0891b2?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>Web Applications at scale</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📱_Mobile-React_Native-0369a1?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>Cross-platform mobile apps</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🤖_Automation-Python_%26_AI-0284c7?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>Intelligent automation tools</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/☁️_Cloud-Deployed_Systems-0891b2?style=for-the-badge&labelColor=0D1117" /><br/>
+<sub>Cloud-native microservices</sub>
+</td>
+</tr>
+</table>
 
-<!-- QUOTES SECTION -->
-<h2 align="center" style="font-family: 'Times New Roman', serif;">💬 Developer Wisdom</h2>
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║              ENGINEERING PHILOSOPHY                                 ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🧭 Engineering Philosophy</h2>
+
+<table align="center" width="88%">
+<tr>
+<td align="center" width="33%">
+
+### 🏗️ Build for Scale
+Design systems that grow gracefully — from MVP to millions of users without rewrites.
+
+</td>
+<td align="center" width="33%">
+
+### 🔬 Think in Systems
+Every feature is part of a larger architecture. Optimize for the whole, not the part.
+
+</td>
+<td align="center" width="33%">
+
+### 🚢 Ship with Confidence
+CI/CD, tests, and observability aren't overhead — they're the foundation of fast delivery.
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                  DEVELOPER WISDOM                                   ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">💬 Developer Wisdom</h2>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 </p>
 
 <details align="center">
-<summary>📖 <b>More Inspiring Quotes</b></summary>
-<br>
+<summary>📖 <b>More Engineering Principles</b></summary>
+<br/>
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
-> *"Programming isn't about what you know; it's about what you can figure out."* — Chris Pine
+> *"Make it work, make it right, make it fast."* — Kent Beck
 
 > *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 > *"The best error message is the one that never shows up."* — Thomas Fuchs
 
+> *"Simplicity is the soul of efficiency."* — Austin Freeman
+
+> *"Architecture is the decisions that you wish you could get right early."* — Ralph Johnson
+
 </details>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
+---
 
-<!-- CONNECT SECTION -->
-<h2 align="center" style="font-family: 'Times New Roman', serif;">🤝 Let's Connect</h2>
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    CONNECT SECTION                                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<h2 align="center">🤝 Let's Build Something Together</h2>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/shema-arafati-h-5baa6b395/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
   <a href="mailto:shemaaraafati26@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://linkedin.com/in/shemaarafati">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/shemaarafati">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  &nbsp;
   <a href="https://github.com/shemaarafati2020">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  &nbsp;
+  <a href="https://twitter.com/shemaarafati">
+    <img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
   <a href="https://dev.to/shemaarafati">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📧_Email-shemaaraafati26@gmail.com-00C9FF?style=flat-square&labelColor=0D1117" />
-</p>
-
-<!-- SUPPORT SECTION -->
-<h3 align="center" style="font-family: 'Times New Roman', serif;">☕ Support My Work</h3>
-<p align="center">
+  &nbsp;
   <a href="https://buymeacoffee.com/shemaarafati">
     <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee" />
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
-<!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:92FE9D,100:00C9FF&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=24&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+  <img src="https://img.shields.io/badge/📧_Email-shemaaraafati26@gmail.com-0891b2?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/🔗_LinkedIn-shema--arafati--h-0A66C2?style=flat-square&labelColor=0D1117" />
+</p>
+
+---
+
+<!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FOOTER                                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:0B2447,60:19376D,100:576CBC&height=160&section=footer&text=Thanks%20for%20Visiting%20%E2%80%94%20Go%20Build%20Something%20Great!&fontSize=20&fontColor=A5F3FC&animation=fadeIn&fontAlignY=75"/>
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&weight=600&size=20&duration=3000&pause=1000&color=00C9FF&center=true&vCenter=true&width=550&lines=%E2%9C%A8+Turning+Ideas+Into+Impactful+Solutions!;%F0%9F%9A%80+Let's+Build+Something+Amazing+Together!;%F0%9F%92%A1+Innovation+Starts+With+A+Single+Line+of+Code;%F0%9F%8C%9F+Welcome+to+SKillArc+Corporation!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=✨+Turning+Complexity+Into+Clarity;🚀+Shipping+Products+That+Matter;💡+One+Commit+at+a+Time;🌟+Open+to+Collaborate+%26+Connect!" />
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-❤️-00C9FF?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Powered%20by-☕%20Coffee-92FE9D?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Built%20at-SKillArc%20Corp-48CAE4?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Crafted_with-❤️_&_Coffee-0891b2?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Built_at-SKillArc_Corporation-0369a1?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Last_Updated-April_2026-0284c7?style=flat-square&labelColor=0D1117" />
 </p>
 
-<!-- LAST UPDATED -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Last%20Updated-December%202024-00C9FF?style=flat-square&labelColor=0D1117" />
-</p>
-
+<!-- INVISIBLE ANCHOR TO BOOST READABILITY -->
+<br/>
