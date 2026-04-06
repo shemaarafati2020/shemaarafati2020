@@ -36,158 +36,135 @@
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" />
-  &nbsp;About Me
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
+  &nbsp; About Me &nbsp;
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"/>
 </h2>
 
-<table align="center" width="92%">
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3000&pause=800&color=94A3B8&center=true&vCenter=true&width=600&lines=Welcome+to+my+corner+of+the+internet+%F0%9F%91%8B;I+build+things+that+actually+ship+%F0%9F%9A%80;Let%27s+create+something+extraordinary+together+%E2%9C%A8" />
+</div>
+
+<br/>
+
+<table align="center" width="94%">
 <tr>
-<td width="46%" valign="top">
+<td width="44%" valign="top" align="center">
+
+<!-- ANIMATED PROFILE CARD -->
+<img src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&ring_color=38BDF8&include_all_commits=true&count_private=true&hide=contribs&show=reviews,discussions_started" alt="Stats" width="100%" />
+
+<br/>
 
 ```yaml
-┌─────────────────────────────────────┐
-│  👤  Shema Arafati                  │
-│  💼  Software Engineer              │
-│  🏢  SKillArc Corporation           │
-│  📍  Rwanda / Global Remote         │
-│  📬  shemaaraafati26@gmail.com      │
-│  🔗  linkedin/in/shema-arafati-h    │
-│  🕐  Always Shipping 🚀             │
-└─────────────────────────────────────┘
+╭──────────────────────────────────╮
+│  🧑‍💻  Shema Arafati               │
+│  💼  Software Engineer           │
+│  🏢  SKillArc Corporation        │
+│  📍  Rwanda — Remote Globally    │
+│  📬  shemaaraafati26@gmail.com   │
+│  🌐  Full-Stack & Cloud Builder  │
+│  ⚡  Always Shipping Code 🚀     │
+╰──────────────────────────────────╯
 ```
 
 </td>
-<td width="54%" valign="top">
-<br/>
+<td width="56%" valign="top">
 
-- 🏗️ Building **scalable, production-ready** web & mobile systems
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="coding gif"/>
+
+### 🏗️ What I Do
+
 - 🌐 Expert in **MERN Stack, Spring Boot & Microservices**
 - ☁️ Passionate about **Cloud Architecture, DevOps & CI/CD**
 - 📐 Focused on **System Design, Performance & Clean Code**
-- 🤝 Open to **collaborations, freelance & open-source**
+- 📱 Building **cross-platform apps** with React Native
+- 🔐 Implementing **Auth, Security & API design patterns**
+- 🤝 Open to **collaborations, freelance & OSS contributions**
 - 🎯 Mission: **Deliver high-impact technology at scale**
-- 📖 Currently deepening: **Kubernetes, Rust & AI Engineering**
+
+### 🌱 Currently Leveling Up
+
+<p>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-orange?style=flat-square&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Engineering-6366f1?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
+  <img src="https://img.shields.io/badge/System%20Design-0891b2?style=flat-square&labelColor=0D1117" />
+</p>
+
+### 🔭 Currently Shipping
+
+<p>
+  <img src="https://img.shields.io/badge/📱_Mobile-React_Native-0891b2?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/🌐_Web-MERN_Stack-0369a1?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/⚙️_Backend-Spring_Boot-0284c7?style=flat-square&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_&_GCP-0891b2?style=flat-square&labelColor=0D1117" />
+</p>
 
 </td>
 </tr>
 </table>
 
-<br/>
-
-<!-- CURRENTLY BUILDING / LEARNING ROW -->
-<h3 align="center">🔭 Currently Shipping</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/📱_Mobile-React_Native-0891b2?style=flat-square&labelColor=0D1117&logo=react" />
-  <img src="https://img.shields.io/badge/🌐_Web-MERN_Stack-0369a1?style=flat-square&labelColor=0D1117&logo=mongodb" />
-  <img src="https://img.shields.io/badge/⚙️_Backend-Spring_Boot-0284c7?style=flat-square&labelColor=0D1117&logo=spring" />
-  <img src="https://img.shields.io/badge/☁️_Cloud-AWS_&_GCP-0891b2?style=flat-square&labelColor=0D1117&logo=amazon-aws" />
-  <img src="https://img.shields.io/badge/🔐_Security-JWT_&_OAuth2-0369a1?style=flat-square&labelColor=0D1117" />
-</p>
-
-<h3 align="center">🌱 Actively Learning</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/System_Design-0891b2?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AI_Engineering-6366f1?style=flat-square&labelColor=0D1117&logo=openai&logoColor=white" />
-</p>
-
 ---
 
 <!-- ╔══════════════════════════════════════════════════════════════════════╗ -->
-<!-- ║                   TECH STACK & TOOLS                                ║ -->
+<!-- ║                   TECH STACK & ARSENAL                              ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
 <h2 align="center">🛠️ Tech Stack &amp; Arsenal</h2>
 
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br/>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=700&color=475569&center=true&vCenter=true&width=500&lines=Languages+%7C+Frameworks+%7C+Infra+%7C+Tools" />
 </p>
-</details>
 
-<details open>
-<summary><b>🌐 Frontend</b></summary>
-<br/>
+<!-- ── LANGUAGES ─────────────────────────────────────────────────────────── -->
+<h4 align="center">💻 Languages</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=java,ts,js,python,go,rust,cpp,php&theme=dark&perline=8" alt="Languages" />
+  </a>
 </p>
-</details>
 
-<details open>
-<summary><b>⚙️ Backend &amp; APIs</b></summary>
-<br/>
+<!-- ── FRONTEND ──────────────────────────────────────────────────────────── -->
+<h4 align="center">🌐 Frontend</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-0891b2?style=for-the-badge&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,sass,materialui,html,css&theme=dark&perline=8" alt="Frontend" />
+  </a>
 </p>
-</details>
 
-<details open>
-<summary><b>🗄️ Databases &amp; Storage</b></summary>
-<br/>
+<!-- ── BACKEND ───────────────────────────────────────────────────────────── -->
+<h4 align="center">⚙️ Backend &amp; APIs</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,graphql,nginx&theme=dark&perline=6" alt="Backend" />
+  </a>
 </p>
-</details>
 
-<details open>
-<summary><b>☁️ Cloud, DevOps &amp; Infrastructure</b></summary>
-<br/>
+<!-- ── DATABASES ─────────────────────────────────────────────────────────── -->
+<h4 align="center">🗄️ Databases &amp; Storage</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,firebase,supabase,elasticsearch&theme=dark&perline=7" alt="Databases" />
+  </a>
 </p>
-</details>
 
-<details>
-<summary><b>🔧 Tools &amp; IDEs</b></summary>
-<br/>
+<!-- ── CLOUD & DEVOPS ────────────────────────────────────────────────────── -->
+<h4 align="center">☁️ Cloud, DevOps &amp; Infrastructure</h4>
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" />
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,githubactions,terraform,linux&theme=dark&perline=7" alt="DevOps" />
+  </a>
 </p>
-</details>
+
+<!-- ── TOOLS ────────────────────────────────────────────────────────────── -->
+<h4 align="center">🔧 Tools &amp; IDEs</h4>
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,figma,notion,jest&theme=dark&perline=8" alt="Tools" />
+  </a>
+</p>
 
 ---
 
@@ -236,37 +213,42 @@
 
 <h2 align="center">📊 GitHub Analytics</h2>
 
-<!-- STATS CARDS -->
 <p align="center">
-  <a href="https://github.com/shemaarafati2020">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&bg_color=0D1117&border_color=0891b2&title_color=67E8F9&icon_color=A5F3FC&text_color=e2e8f0&ring_color=0891b2" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/shemaarafati2020">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaarafati2020&layout=compact&langs_count=9&theme=transparent&bg_color=0D1117&border_color=0891b2&title_color=67E8F9&text_color=e2e8f0" alt="Top Languages" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2500&pause=700&color=475569&center=true&vCenter=true&width=500&lines=Code+%7C+Commits+%7C+Contributions+%7C+Consistency" />
 </p>
 
-<!-- STREAK STATS -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=shemaarafati2020&theme=transparent&background=0D1117&border=0891b2&stroke=0891b2&ring=67E8F9&fire=f59e0b&currStreakLabel=67E8F9&sideLabels=e2e8f0&dates=94a3b8" alt="GitHub Streak" />
-</p>
-
-<!-- ACTIVITY GRAPH -->
+<!-- ── STATS + TOP LANGUAGES SIDE-BY-SIDE ───────────────────────────────── -->
 <p align="center">
   <a href="https://github.com/shemaarafati2020">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&custom_title=📈+Contribution+Activity&bg_color=0D1117&color=67E8F9&line=0891b2&point=A5F3FC&area_color=0891b2&area=true&hide_border=false&border_color=0891b2" width="95%" alt="Activity Graph"/>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&hide_border=false&border_radius=12&bg_color=0D1117&border_color=1E3A5F&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&include_all_commits=true&count_private=true&custom_title=⚡+Shema's+GitHub+Stats&show=reviews,discussions_started,prs_merged,prs_merged_percentage&cache_seconds=86400" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/shemaarafati2020">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shemaarafati2020&layout=donut-vertical&langs_count=10&hide_border=false&border_radius=12&bg_color=0D1117&border_color=1E3A5F&title_color=38BDF8&text_color=CBD5E1&hide=html,css&custom_title=🔤+Top+Languages&cache_seconds=86400&size_weight=0.5&count_weight=0.5" alt="Top Languages" />
   </a>
 </p>
 
-<!-- TROPHIES -->
-<h3 align="center">🏆 GitHub Trophies</h3>
+<!-- ── STREAK STATS ──────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=shemaarafati2020&theme=discord&no-frame=false&no-bg=false&column=7&margin-w=6&row=1" alt="GitHub Trophies" />
+  <img width="72%" src="https://streak-stats.demolab.com?user=shemaarafati2020&theme=transparent&hide_border=false&border_radius=12&background=0D1117&border=1E3A5F&stroke=38BDF8&ring=818CF8&fire=F59E0B&currStreakNum=38BDF8&sideNums=CBD5E1&currStreakLabel=94A3B8&sideLabels=94A3B8&dates=475569&card_width=600" alt="GitHub Streak" />
 </p>
 
-<!-- CONTRIBUTION SNAKE -->
+<!-- ── ACTIVITY GRAPH ────────────────────────────────────────────────────── -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <a href="https://github.com/shemaarafati2020">
+    <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&custom_title=%F0%9F%93%88+Contribution+Timeline&bg_color=0D1117&color=38BDF8&line=818CF8&point=E2E8F0&area_color=1E3A5F&area=true&hide_border=false&border_color=1E3A5F&radius=6" alt="Activity Graph"/>
+  </a>
+</p>
+
+<!-- ── TROPHIES ──────────────────────────────────────────────────────────── -->
+<h3 align="center">🏆 Achievement Trophies</h3>
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=shemaarafati2020&theme=algolia&no-frame=false&no-bg=true&column=7&margin-w=8&margin-h=8&row=1" alt="GitHub Trophies" />
+</p>
+
+<!-- ── CONTRIBUTION SNAKE ───────────────────────────────────────────────── -->
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="96%" />
 </p>
 
 ---
@@ -411,19 +393,41 @@ CI/CD, tests, and observability aren't overhead — they're the foundation of fa
 <!-- ║                       FOOTER                                        ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
+<!-- FOOTER DIVIDER ANIMATION -->
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D0221,40:0B2447,70:1E3A5F,100:0891b2&height=80&section=footer&reversal=false" width="100%" />
+
+<br/>
+
+<!-- ANIMATED CALL TO ACTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,30:0B2447,60:19376D,100:576CBC&height=160&section=footer&text=Thanks%20for%20Visiting%20%E2%80%94%20Go%20Build%20Something%20Great!&fontSize=20&fontColor=A5F3FC&animation=fadeIn&fontAlignY=75"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=800&height=60&lines=%F0%9F%9A%80+Open+to+Collaborate+%26+Build+Together;%E2%9C%A8+Every+Great+Product+Starts+With+One+Commit;%F0%9F%8C%9F+Let%27s+Ship+Something+That+Matters;%F0%9F%92%A1+Reach+Out+%E2%80%94+I+Reply+Fast!" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1000&color=67E8F9&center=true&vCenter=true&width=700&lines=✨+Turning+Complexity+Into+Clarity;🚀+Shipping+Products+That+Matter;💡+One+Commit+at+a+Time;🌟+Open+to+Collaborate+%26+Connect!" />
-</h3>
-
+<!-- CONNECT BADGES ROW -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Crafted_with-❤️_&_Coffee-0891b2?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Built_at-SKillArc_Corporation-0369a1?style=flat-square&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Last_Updated-April_2026-0284c7?style=flat-square&labelColor=0D1117" />
+  <a href="https://www.linkedin.com/in/shema-arafati-h-5baa6b395/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
+  <a href="mailto:shemaaraafati26@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;
+  <a href="https://github.com/shemaarafati2020"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;
+  <a href="https://twitter.com/shemaarafati"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://dev.to/shemaarafati"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>&nbsp;
+  <a href="https://buymeacoffee.com/shemaarafati"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" /></a>
 </p>
 
-<!-- INVISIBLE ANCHOR TO BOOST READABILITY -->
+<!-- META ROW -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Crafted%20with-❤️%20%26%20☕-38BDF8?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Built%20at-SKillArc%20Corporation-818CF8?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Updated-April%202026-0891b2?style=flat-square&labelColor=0D1117" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Hire%20%26%20Collaborate-22C55E?style=flat-square&labelColor=0D1117" />
+</p>
+
+<!-- WAVE FOOTER BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,25:0B2447,55:1E3A5F,80:0369a1,100:0891b2&height=180&section=footer&text=Thanks%20for%20Visiting%20%E2%80%94%20Go%20Build%20Something%20Great!&fontSize=22&fontColor=BAE6FD&animation=fadeIn&fontAlignY=65&desc=⭐%20Star%20my%20repos%20if%20you%20find%20them%20useful!&descSize=14&descColor=7DD3FC&descAlignY=82"/>
+</p>
+
+<!-- INVISIBLE SPACER -->
 <br/>
