@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=CBD5E1&include_all_commits=true&count_private=true&cache_seconds=86400" alt="Shema's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shemaarafati2020&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Shema's GitHub Stats" width="100%" />
     </td>
   </tr>
 </table>
