@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0B2447,60:19376D,100:0891b2&height=240&section=header&text=Shema%20Arafati&fontSize=62&fontColor=A5F3FC&animation=fadeIn&fontAlignY=36&desc=Frontend%20Engineer%20%C2%B7%20Software%20Developer%20%C2%B7%20Kigali%2C%20RW&descAlignY=56&descSize=16&descColor=67E8F9"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:0B2447,60:19376D,100:0891b2&height=240&section=header&text=Shema%20Arafati&fontSize=62&fontColor=A5F3FC&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Engineer%20%C2%B7%20Backend%20%26%20DevOps%20%C2%B7%20Kigali%2C%20RW&descAlignY=56&descSize=16&descColor=67E8F9"/>
 </div>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&background=00000000&center=false&vCenter=true&width=800&lines=Hi+there!+I'm+Shema+Arafati;Frontend+Engineer+%7C+Software+Developer;Building+seamless+and+impactful+frontend+experiences;Writing+clean%2C+efficient%2C+and+maintainable+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&background=00000000&center=false&vCenter=true&width=900&lines=Hi+there!+I'm+Shema+Arafati;Full-Stack+Engineer+%7C+Backend+%26+DevOps;Building+seamless+and+impactful+digital+experiences;Writing+clean%2C+efficient%2C+and+maintainable+code" alt="Typing SVG" />
 </p>
 
 ```diff
-+ I’m Shema Arafati, a passionate Frontend Engineer & Software Developer.
-+ Portfolio Website: https://github.com/shemaarafati2020
-+ I enjoy creating scalable web applications, dynamic frontend interfaces,
++ I’m Shema Arafati, a passionate Full-Stack Engineer, focusing on Frontend, Backend, and DevOps.
++ Portfolio Website: https://shemaarafati.dev/
++ I enjoy creating scalable web applications, robust backend systems,
 + and modern digital solutions that solve real-world problems.
 + Or copy directly:
 + shemaarafati2020
@@ -18,10 +18,10 @@
 
 ```yaml
 Currently Exploring:
+  - Scalable Backend Architectures
+  - DevOps & CI/CD Pipelines
   - Advanced Next.js Patterns
-  - System Architecture
-  - Frontend Performance Optimization
-  - AI Integration in UIs
+  - AI Integration & Web3 Technologies
 ```
 
 ```css
@@ -65,17 +65,17 @@ Or copy directly:
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,py,php,react,nextjs,tailwind,redux,vite,nodejs,express,postgres,mongodb,prisma,git,docker,githubactions,vercel,figma,jest,playwright&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,py,php,react,nextjs,tailwind,redux,nodejs,express,postgres,mongodb,prisma,git,docker,githubactions,aws,linux,nginx,vercel,jest&theme=dark" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=0D1117"/>
 </p>
 
 ---
@@ -152,12 +152,12 @@ Or copy directly:
 
 ## ⚡ Fun Fact
 
-> *"I treat my frontend code like architecture—it needs to be visually stunning, perfectly structured, and built to withstand real-world stress. Just like a well-designed skyscraper, great software stands the test of time."*
+> *"I treat my software like architecture—it needs to be visually stunning on the front end, perfectly structured on the back end, and deployed robustly to withstand real-world stress. Just like a well-designed skyscraper, great software stands the test of time."*
 
 <br/>
 
 <p align="center">
-   <b>Turning ideas into impactful frontend experiences.</b>
+   <b>Turning ideas into impactful full-stack digital experiences.</b>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,40:19376D,70:0B2447,100:0D1117&height=120&section=footer" width="100%"/>
