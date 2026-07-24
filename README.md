@@ -27,8 +27,8 @@
       <p>I'm a <strong>Frontend Engineer</strong> who cares about the boring parts — render performance, accessibility, and code the next person can actually read. I build component-driven interfaces that hold up under real traffic and real deadlines.</p>
       <ul>
         <li>🧩 <strong>Focus:</strong> Frontend architecture, design systems, performance budgets</li>
-        <li>🔭 <strong>Currently building:</strong> <em>— your active project —</em></li>
-        <li>🌱 <strong>Learning:</strong> <em>— e.g. React Server Components, Rust —</em></li>
+        <li>🔭 <strong>Currently building:</strong> CyberSentinel Pro & AGRI_P2P_Frontend</li>
+        <li>🌱 <strong>Learning:</strong> Advanced Next.js Patterns & System Architecture</li>
         <li>💬 <strong>Ask me about:</strong> React, TypeScript, state management, CSS architecture</li>
         <li>📫 <strong>Reach me:</strong> <a href="mailto:shemaaraafati26@gmail.com">shemaaraafati26@gmail.com</a></li>
       </ul>
@@ -114,8 +114,6 @@
   </tr>
 </table>
 
-> Trim any row you don't actually use. A short honest stack reads stronger than a long aspirational one.
-
 ---
 
 ## 🚀 Featured Projects
@@ -123,31 +121,29 @@
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/REPO-ONE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=REPO-ONE&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/CyberSentinel">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=CyberSentinel&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/REPO-TWO">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=REPO-TWO&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/AGRI_P2P_Frontend">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=AGRI_P2P_Frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/REPO-THREE">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=REPO-THREE&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/portfolio">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=portfolio&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/REPO-FOUR">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=REPO-FOUR&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/course_evaluation_survey_system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=course_evaluation_survey_system&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
   </tr>
 </table>
-
-<p align="center">Replace <code>REPO-ONE</code>…<code>REPO-FOUR</code> with real repository names.</p>
 
 ---
 
@@ -180,7 +176,7 @@
   <a href="https://www.linkedin.com/in/shema-arafati-h-5baa6b395/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:shemaaraafati26@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
   <a href="https://twitter.com/shemaarafati"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>&nbsp;
-  <a href="https://YOUR-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/shemaarafati2020"><img src="https://img.shields.io/badge/Portfolio-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <p align="center">
