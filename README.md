@@ -86,24 +86,24 @@ Or copy directly:
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/shemaarafati2020/CyberSentinel">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=CyberSentinel&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=CyberSentinel&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/shemaarafati2020/AGRI_P2P_Frontend">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=AGRI_P2P_Frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=AGRI_P2P_Frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/shemaarafati2020/portfolio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=portfolio&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=portfolio&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/shemaarafati2020/course_evaluation_survey_system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=shemaarafati2020&repo=course_evaluation_survey_system&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=course_evaluation_survey_system&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
   </tr>
@@ -115,16 +115,14 @@ Or copy directly:
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=shemaarafati2020&hide_border=true&background=0D1117&stroke=1E3A5F&ring=38BDF8&fire=0891b2&currStreakLabel=38BDF8&sideLabels=CBD5E1&dates=64748B&currStreakNum=CBD5E1&sideNums=CBD5E1" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=shemaarafati2020&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shemaarafati2020&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2&include_all_commits=true&count_private=true&rank_icon=github" height="170"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=shemaarafati2020&custom_title=Contribution+Timeline&bg_color=0D1117&color=38BDF8&line=818CF8&point=E2E8F0&area_color=1E3A5F&area=true&hide_border=true&radius=8" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shemaarafati2020&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
+
 
 ### 🐍 Contribution Snake
 
