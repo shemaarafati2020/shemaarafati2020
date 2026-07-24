@@ -85,25 +85,25 @@ Or copy directly:
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/CyberSentinel">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=CyberSentinel&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/SkillArc-Learning-Management-System">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=SkillArc-Learning-Management-System&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/AGRI_P2P_Frontend">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=AGRI_P2P_Frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/QueryMe-frontend">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=QueryMe-frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/portfolio">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=portfolio&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/Distributed_University_Management_System">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=Distributed_University_Management_System&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/shemaarafati2020/course_evaluation_survey_system">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=course_evaluation_survey_system&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
+      <a href="https://github.com/shemaarafati2020/CourseEvaluationSurvey">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=shemaarafati2020&repo=CourseEvaluationSurvey&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&icon_color=0891b2" />
       </a>
     </td>
   </tr>
